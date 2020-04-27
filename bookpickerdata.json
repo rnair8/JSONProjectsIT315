@@ -19,7 +19,7 @@
 	"BookID":2,
 	"BookName":"The Wife Between Us",
         "BookAuthor":"By Sarah Pekkanen & Greer Hendricks",
-        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookPicture":"https://github.com/rnair8/JSONProjectsIT315/blob/master/wife.png?raw=true",
         "BookDescription":"When you read this book, you will make many assumptions. You will assume you are reading about a jealous ex-wife. You will assume she is obsessed with her replacement. You will assume you know the anatomy of this tangled love triangle. Assume nothing.",
         "BookGenre":"Mystery",
         "BookPrice":"$12.00",
