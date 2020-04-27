@@ -32,7 +32,7 @@
 	"BookID":3,
 	"BookName":"The Whisper Man",
         "BookAuthor":"By Alex North",
-        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookPicture":"https://github.com/rnair8/JSONProjectsIT315/blob/master/whisper.png?raw=true",
         "BookDescription":"In this dark, suspenseful thriller, Alex North weaves a multi-generational tale of a father and son caught in the crosshairs of an investigation to catch a serial killer preying on a small town.",
         "BookGenre":"Horror/Thriller",
         "BookPrice":"$12.96",
