@@ -54,6 +54,6 @@
         "BookReview":"https://www.goodreads.com/book/show/52225186-eight-perfect-murders?ac=1&from_search=true&qid=qkTF1BjrHU&rank=1#other_reviews",
 	}
 
-	];
-	"Status" = "OK";
+	],
+	"Status":"OK";
 }
