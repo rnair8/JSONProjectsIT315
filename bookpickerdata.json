@@ -6,7 +6,7 @@
 	"BookID":1,
 	"BookName":"The Kind Worth Killing",
         "BookAuthor":"By Peter Swanson",
-        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookPicture":"https://github.com/rnair8/JSONProjectsIT315/blob/master/kindworth.png?raw=true",
         "BookDescription":"A captivating tale of two strangers accidental encounter that leads to a murder. With twists and turns in every corner, you will never be able to guess the ending",
         "BookGenre":"Suspense",
         "BookPrice":"$18.46",
