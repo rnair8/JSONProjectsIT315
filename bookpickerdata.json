@@ -45,7 +45,7 @@
 	"BookID":4,
 	"BookName":"Eight Perfect Murders",
         "BookAuthor":"By Peter Swanson",
-        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookPicture":"https://github.com/rnair8/JSONProjectsIT315/blob/master/eight.png?raw=true",
         "BookDescription":"The story of a bookseller who finds himself at the center of an FBI investigation because a very clever killer has started using his list of fictions most ingenious murders.",
         "BookGenre":"Thriller",
         "BookPrice":"$22.39",
