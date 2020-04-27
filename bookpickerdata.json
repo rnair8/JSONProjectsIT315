@@ -1,58 +1,59 @@
 {
-	BookDetailsArray = (
+	"BookDetailsArray":
+	[
 
 	{
-		BookID = 1;
-		BookName = "The Kind Worth Killing";
-        BookAuthor = "By Peter Swanson";
-        BookPicture =  "http://www.protogic.com/images/Old_Rag.jpg";
-        BookDescription = "A captivating tale of two strangers accidental encounter that leads to a murder. With twists and turns in every corner, you will never be able to guess the ending";
-        BookGenre = "Suspense";
-        BookPrice = "$18.46";
-        BookRating = "4.03/5";
-        BookPurchase = "https://www.amazon.com/Kind-Worth-Killing-Novel/dp/0062267523/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209480&sr=8-2";
-        BookReview = "https://www.goodreads.com/book/show/21936809-the-kind-worth-killing?ac=1&from_search=true&qid=9Du66Wigwy&rank=1#other_reviews";
+	"BookID":1,
+	"BookName":"The Kind Worth Killing",
+        "BookAuthor":"By Peter Swanson",
+        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookDescription":"A captivating tale of two strangers accidental encounter that leads to a murder. With twists and turns in every corner, you will never be able to guess the ending",
+        "BookGenre":"Suspense",
+        "BookPrice":"$18.46",
+        "BookRating":"4.03/5",
+        "BookPurchase":"https://www.amazon.com/Kind-Worth-Killing-Novel/dp/0062267523/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209480&sr=8-2",
+        "BookReview":"https://www.goodreads.com/book/show/21936809-the-kind-worth-killing?ac=1&from_search=true&qid=9Du66Wigwy&rank=1#other_reviews"
 	},
 
 	{
-		BookID = 2;
-		BookName = "The Wife Between Us";
-        BookAuthor = "By Sarah Pekkanen & Greer Hendricks";
-        BookPicture =  "http://www.protogic.com/images/Old_Rag.jpg";
-        BookDescription = "When you read this book, you will make many assumptions. You will assume you are reading about a jealous ex-wife. You will assume she is obsessed with her replacement. You will assume you know the anatomy of this tangled love triangle. Assume nothing.";
-        BookGenre = "Mystery";
-        BookPrice = "$12.00";
-        BookRating = "3.84/5";
-        BookPurchase = "https://www.amazon.com/Wife-Between-Us-Novel/dp/1250130921/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209852&sr=8-2";
-        BookReview = "https://www.goodreads.com/book/show/34189556-the-wife-between-us?ac=1&from_search=true&qid=ZPU9M1EORw&rank=1#other_reviews";
+	"BookID":2,
+	"BookName":"The Wife Between Us",
+        "BookAuthor":"By Sarah Pekkanen & Greer Hendricks",
+        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookDescription":"When you read this book, you will make many assumptions. You will assume you are reading about a jealous ex-wife. You will assume she is obsessed with her replacement. You will assume you know the anatomy of this tangled love triangle. Assume nothing.",
+        "BookGenre":"Mystery",
+        "BookPrice":"$12.00",
+        "BookRating":"3.84/5",
+        "BookPurchase":"https://www.amazon.com/Wife-Between-Us-Novel/dp/1250130921/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209852&sr=8-2",
+        "BookReview":"https://www.goodreads.com/book/show/34189556-the-wife-between-us?ac=1&from_search=true&qid=ZPU9M1EORw&rank=1#other_reviews"
 	},
 
 	{
-		BookID = 3;
-		BookName = "The Whisper Man";
-        BookAuthor = "By Alex North";
-        BookPicture =  "http://www.protogic.com/images/Old_Rag.jpg";
-        BookDescription = "In this dark, suspenseful thriller, Alex North weaves a multi-generational tale of a father and son caught in the crosshairs of an investigation to catch a serial killer preying on a small town.";
-        BookGenre = "Horror/Thriller";
-        BookPrice = "$12.96";
-        BookRating = "4.07/5";
-        BookPurchase = "https://www.amazon.com/Whisper-Man-Alex-North/dp/1250317991/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209953&sr=8-2";
-        BookReview = "https://www.goodreads.com/book/show/41940236-the-whisper-man?ac=1&from_search=true&qid=CkKnFxvTuM&rank=1#other_reviews";
+	"BookID":3,
+	"BookName":"The Whisper Man",
+        "BookAuthor":"By Alex North",
+        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookDescription":"In this dark, suspenseful thriller, Alex North weaves a multi-generational tale of a father and son caught in the crosshairs of an investigation to catch a serial killer preying on a small town.",
+        "BookGenre":"Horror/Thriller",
+        "BookPrice":"$12.96",
+        "BookRating":"4.07/5",
+        "BookPurchase":"https://www.amazon.com/Whisper-Man-Alex-North/dp/1250317991/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209953&sr=8-2",
+        "BookReview":"https://www.goodreads.com/book/show/41940236-the-whisper-man?ac=1&from_search=true&qid=CkKnFxvTuM&rank=1#other_reviews"
 	},
 
 	{
-		BookID = 4;
-		BookName = "Eight Perfect Murders";
-        BookAuthor = "By Peter Swanson";
-        BookPicture =  "http://www.protogic.com/images/Old_Rag.jpg";
-        BookDescription = "The story of a bookseller who finds himself at the center of an FBI investigation because a very clever killer has started using his list of fictions most ingenious murders.";
-        BookGenre = "Thriller";
-        BookPrice = "$22.39";
-        BookRating = "3.73/5";
-        BookPurchase = "https://www.amazon.com/Eight-Perfect-Murders-Peter-Swanson/dp/0062838202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209990&sr=8-2";
-        BookReview = "https://www.goodreads.com/book/show/52225186-eight-perfect-murders?ac=1&from_search=true&qid=qkTF1BjrHU&rank=1#other_reviews";
+	"BookID":4,
+	"BookName":"Eight Perfect Murders",
+        "BookAuthor":"By Peter Swanson",
+        "BookPicture":"http://www.protogic.com/images/Old_Rag.jpg",
+        "BookDescription":"The story of a bookseller who finds himself at the center of an FBI investigation because a very clever killer has started using his list of fictions most ingenious murders.",
+        "BookGenre":"Thriller",
+        "BookPrice":"$22.39",
+        "BookRating":"3.73/5",
+        "BookPurchase":"https://www.amazon.com/Eight-Perfect-Murders-Peter-Swanson/dp/0062838202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1585209990&sr=8-2",
+        "BookReview":"https://www.goodreads.com/book/show/52225186-eight-perfect-murders?ac=1&from_search=true&qid=qkTF1BjrHU&rank=1#other_reviews",
 	}
 
-	);
+	];
 	Status = OK;
 }
