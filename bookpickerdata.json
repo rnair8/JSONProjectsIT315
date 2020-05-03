@@ -79,6 +79,19 @@
         "BookPurchase":"https://www.amazon.com/Into-Darkest-Corner-Elizabeth-Haynes-ebook/dp/B007HC3LHS/ref=sr_1_1?crid=2MZAUC191G35Z&dchild=1&keywords=into+the+darkest+corner+by+elizabeth+haynes&qid=1588521088&s=books&sprefix=into+the+darkest+c%2Cstripbooks%2C130&sr=1-1",
         "BookReview":"https://www.goodreads.com/book/show/15818362-into-the-darkest-corner"
 
+	},
+	{
+	"BookID":7,
+	"BookName":"City of Girls",
+        "BookAuthor":"Elizabeth Gilbert",
+        "BookPicture":"https://github.com/rnair8/JSONProjectsIT315/blob/master/girls.jpg?raw=true",
+        "BookDescription":"Told from the perspective of an older woman as she looks back on her youth with both pleasure and regret. In 1940, nineteen-year-old Vivian Morris has just been kicked out of Vassar College, owing to her lackluster freshman-year performance. Her affluent parents send her to Manhattan to live with her Aunt Peg, who owns a flamboyant, crumbling midtown theater called the Lily Playhouse. There Vivian is introduced to an entire cosmos of unconventional and charismatic characters, from the fun-chasing showgirls to a sexy male actor, a grand-dame actress, a lady-killer writer, and no-nonsense stage manager. But when Vivian makes a personal mistake that results in professional scandal, it turns her new world upside down in ways that it will take her years to fully understand. Ultimately, though, it leads her to a new understanding of the kind of life she craves - and the kind of freedom it takes to pursue it.",
+        "BookGenre":"Historical Fiction",
+        "BookPrice":"$14.69",
+        "BookRating":"4.05/5",
+        "BookPurchase":"https://www.amazon.com/City-Girls-Novel-Elizabeth-Gilbert-ebook/dp/B07HZ2Q1MK/ref=sr_1_1?crid=2T5U8GJP0M0NL&dchild=1&keywords=city+of+girls+elizabeth+gilbert&qid=1588521691&s=books&sprefix=city+of+go%2Cstripbooks%2C131&sr=1-1",
+        "BookReview":"https://www.goodreads.com/book/show/42135029-city-of-girls?ac=1&from_search=true&qid=w8GpVXG8vB&rank=1"
+
 	}
 
 	],
